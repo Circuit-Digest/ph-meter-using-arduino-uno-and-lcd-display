@@ -2,7 +2,6 @@
 
 [![Arduino Uno](https://img.shields.io/badge/Board-Arduino%20Uno-blue?logo=arduino)](https://store.arduino.cc/products/arduino-uno-rev3) 
 [![Arduino C++](https://img.shields.io/badge/Language-Arduino%20C++-brightgreen?logo=c%2B%2B)](https://www.arduino.cc/reference/en/) 
-[![pH Sensor](https://www.coastalwiki.org/wiki/PH_sensors) 
 [![CircuitDigest Project](https://img.shields.io/badge/Project-CircuitDigest-red)](https://circuitdigest.com)  
 
 ---
