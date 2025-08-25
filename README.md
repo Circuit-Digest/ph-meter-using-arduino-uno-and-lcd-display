@@ -112,8 +112,8 @@
 - 📘 [Arduino Projects](https://circuitdigest.com/arduino-projects)  
 - 📘 [Arduino IDE Download](https://www.arduino.cc/en/software)  
 - 📘 [Arduino Uno Datasheet](https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf)  
-- 📘 [16x2 LCD with I2C Interfacing Guide](https://circuitdigest.com/microcontroller-projects/interfacing-16x2-lcd-with-arduino)  
-- 📘 [Interfacing 16x2 LCD with Arduino](https://github.com/johnrickman/LiquidCrystal_I2C)  
+- 📘 [Interfacing 16x2 LCD with Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-16x2-lcd-with-arduino)  
+- 📘 [LiquidCrystal_I2C](https://github.com/johnrickman/LiquidCrystal_I2C)  
 
 ---
 
